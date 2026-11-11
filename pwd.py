@@ -23,3 +23,7 @@ while True:
   if upper == False:
     print("Password must contain an uppercase letter.")
     valid=False
+
+  if upper == False:
+    print("Password must contain an lowercase letter.")
+    valid=False
